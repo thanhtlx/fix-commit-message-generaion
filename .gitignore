@@ -1,0 +1,16 @@
+Data
+__pycache__
+**/__pycache__/**
+.vscode
+.ipynb_checkpoints
+env
+venv
+output
+RP
+*.csv
+*.jsonl
+*.json
+*.zip
+*.txt
+*.gz
+*.xlsx
